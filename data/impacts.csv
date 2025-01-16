@@ -1,4 +1,4 @@
-Number,Date,Time,Shower,Shower_Speed,Rmag
+Number,Date,Time,Shower,Shower_Speed_kms,Rmag
 1,2010/10/14,04:06:24.374,False,,9.64268215815794
 2,2010/10/14,04:24:02.378,False,,
 3,2010/10/14,04:28:08.324,False,,

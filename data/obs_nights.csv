@@ -1,4 +1,4 @@
-Name,Avg_Area,Elapsed_Time,Num_Impacts,Ignored
+Name,Avg_Area_km2,Elapsed_Time_sec,Num_Impacts,Ignored
 20120328_0000.avi,5666881.340480257,1871,2,False
 20120328_0001.avi,6919321.226291606,2700,0,False
 20120328_0002.avi,8500095.49287871,2700,4,False
